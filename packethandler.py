@@ -1,4 +1,4 @@
-from packet import Packet
+from pyproxy.packet import Packet
 
 class PacketHandler():
     def __init__(self,proxy):
